@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YjinAID/hellowoleg.git/static/css/main.073c9b0a.css",
+    "main.js": "/YjinAID/hellowoleg.git/static/js/main.c7860703.js",
+    "static/js/787.2ff37782.chunk.js": "/YjinAID/hellowoleg.git/static/js/787.2ff37782.chunk.js",
+    "static/media/logo.svg": "/YjinAID/hellowoleg.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/YjinAID/hellowoleg.git/index.html",
+    "main.073c9b0a.css.map": "/YjinAID/hellowoleg.git/static/css/main.073c9b0a.css.map",
+    "main.c7860703.js.map": "/YjinAID/hellowoleg.git/static/js/main.c7860703.js.map",
+    "787.2ff37782.chunk.js.map": "/YjinAID/hellowoleg.git/static/js/787.2ff37782.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c7860703.js"
+  ]
+}
